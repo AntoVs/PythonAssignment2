@@ -52,6 +52,9 @@ All visualizations are saved in a single HTML dashboard:
 ```
 plots.html
 ```
+<img width="490" height="980" alt="image" src="https://github.com/user-attachments/assets/c8107cbc-1e95-4cc5-8460-e79eaef661aa" />
+<img width="490" height="980" alt="image" src="https://github.com/user-attachments/assets/df722b26-493a-482a-b7bd-5a000646f622" />
+
 ---
 
 ## How to Run
