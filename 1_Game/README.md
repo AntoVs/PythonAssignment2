@@ -8,8 +8,12 @@ Two players compete by pressing their assigned keys as fast as possible.
 The first player to reach the target score wins the round. Winning 3 rounds wins the match.
 
 ## ScreenShots
-  will update later :)
-
+![ss1](assets/1.jpeg)
+![ss2](assets/2.jpeg)
+![ss3](assets/3.jpeg)
+![ss4](assets/4.jpeg)
+![ss5](assets/5.jpeg)
+![ss6](assets/6.jpeg)
 ## Controls
 
 * **Player 1:** Press `A`
