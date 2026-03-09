@@ -24,7 +24,7 @@ The dataset includes information such as:
 
 ---
 
-## equirements
+## requirements
 
 - **Python**
 - **Pandas** – Data processing and analysis
